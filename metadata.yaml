@@ -1,0 +1,24 @@
+_repo: Journeys-to-the-Planet-Mars-or-Our-Mission-to-Ento_61253
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weiss, Sara
+    gutenberg_agent_id: '51329'
+    url: http://www.gutenberg.org/2009/agents/51329
+description: ''
+gutenberg_issued: '2020-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61253'
+  lccn: '03031022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Mars (Planet) -- Miscellanea'
+- !lcsh 'Spirit writings'
+- GITenberg
+title: Journeys to the Planet Mars; or, Our Mission to Ento
+url: http://www.gutenberg.org/ebooks/61253
