@@ -1,11 +1,16 @@
 _repo: Journeys-to-the-Planet-Mars-or-Our-Mission-to-Ento_61253
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61253-h/images/cover.jpg
 creator:
   author:
     agent_name: Weiss, Sara
     gutenberg_agent_id: '51329'
     url: http://www.gutenberg.org/2009/agents/51329
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61253#Journeys-to-the-Planet-Mars-or-Our-Mission-to-Ento
 gutenberg_issued: '2020-01-27'
 gutenberg_type: Text
 identifiers:
